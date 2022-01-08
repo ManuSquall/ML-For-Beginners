@@ -4,18 +4,18 @@
 
 En Asia y la India, las tradiciones alimentarias son muy diversas, ¡y muy deliciosas!. Veamos los datos sobre las cocinas regionales para intentar comprender sus ingredientes. 
 
-![Vendedor de comida tailandesa](./images/thai-food.jpg)
+![Vendedor de comida tailandesa](../images/thai-food.jpg)
 > Photo by <a href="https://unsplash.com/@changlisheng?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lisheng Chang</a> on <a href="https://unsplash.com/s/photos/asian-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## Lo que aprenderás
 
 Esta sección, se basará en el estudio anterior de la Regresión y aprenderás sobre otros clasificadores que puedes usar para entender mejor los datos.
 
-Hay herramientas "low code" utiles que pueden ayudarte a aprender a trabajar con modelos de clasificación. Prueba [Azure ML para esta tarea](https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/?WT.mc_id=academic-15963-cxa)
+Hay herramientas "low code" útiles que pueden ayudarte a aprender a trabajar con modelos de clasificación. Prueba [Azure ML para esta tarea](https://docs.microsoft.com/learn/modules/create-classification-model-azure-machine-learning-designer/?WT.mc_id=academic-15963-cxa)
 
 ## Lecciones
 
-1. [Introducción a la clasificación](../1-Introduction/README.es.md)
+1. [Introducción a la clasificación](../1-Introduction/README.md)
 2. [Más clasificadores](../2-Classifiers-1/README.md)
 3. [Otros clasificadores](../3-Classifiers-2/README.md)
 4. [ML aplicado: construir una aplicación web](../4-Applied/README.md)
